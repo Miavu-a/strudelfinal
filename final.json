@@ -1,9 +1,3 @@
 {
-  "combustion":["combustion.mp3"],
-  "technology":["technology.mp3"],
-  "game":["game.mp3"],
-  "cow":["cow.mp3"],
-  "cuckoo":["cuckoo.mp3"],
-  "crow":["crow.mp3"],
-  "bird":["bird.mp3"]  
+  "recording":["recording.mp3"],
 }
